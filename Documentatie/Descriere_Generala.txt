@@ -1,0 +1,45 @@
+Vei fi conducatorul unei asezari din diferite momente din istorie si scopul tau este sa treci prin fiecare portal pentru a le distruge si pentru ca nimeni sa nu mai treaca prin ele si sa schimbe ordinea evenimentelor istorice.
+
+Vor exista o multitudine de harti fiecare reprezentand un moment al istoriei. 
+Pentru un strop de realism activitatea personajului va fi influentata de:
+                -> Vreme 
+			   - ploaie
+			   - canicula
+			   - zapada
+			   - furtuna (vant puernic)
+
+		-> Anotimp 
+			   - primavera
+			   - vara
+			   - toamna
+			   - iarna
+
+		-> Conditii fiziologice
+			   - foame
+			   - sete
+			   - frig
+			   - caldura
+			   - odihna
+
+Transportul va fi realizat prin mai multe mijloacea:
+		-> pe jos
+		-> cu un animal
+		-> cu un mijloc de transport precum:
+				- bicicleta
+				- motocicleta
+				- skateboard
+				- etc.
+
+Pe parcurs jucatorul poate colecta diverse obiecte specifice care pot adauga bonusuri si nu pot fi pierdute.
+Pe langa acele obiecte care adauga bonusuri pot fi colectate si diverse parti de echipament care in urma utilizarii sa se deterioreze si sa se distruga.
+Jucatorul poate colecta bani si cu acei bani sa recruteze aliati si sa isi imbunatatwasca fortareata.
+Daca jucatorul este atacat vor exista scenarii:
+	1. Tot echipamentul cu exceptia armei se va degrada
+	2. Jucatorul pierde viata
+	3. Jucatorul pierde bani
+
+! DACA NU MAI AI BANI, LA FIECARE LOVITURA VEI PIERDE O PARTE DIN ECHIPAMENT
+
+Fiecare parte din echipament o sa aiba un indice al erei in din care face parte. Daca te afli intr-o era inferioara echipamentului, si echipamentul e capturat de inamici si dus in baza lor automat vei pierde jocul pentru ca vei aduce un element din viitor si vei strica firul istoriei.
+
+
